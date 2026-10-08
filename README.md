@@ -8,7 +8,7 @@ Este repositorio se ha creado para la asignatura de Programación y Robótica co
 Contiene archivos de código de prueba y la configuración básica solicitada en la actividad de creación y compartición de repositorios.
 
 ## Autor
-[Pon aquí tu Nombre y Apellidos]
+Eric Palanques Toledano
 
 ## Versión
 v1.0 - Versión inicial del repositorio.
